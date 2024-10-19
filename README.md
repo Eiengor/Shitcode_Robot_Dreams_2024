@@ -5,6 +5,7 @@
 And for sure into C:\...\MinGW\
 - As you can notice, there is a little bit of c++ code, and to run it fully in one line is imposible (for my knoledges) due to "#include ..." line.
 So near this line is "\n", but when you execute main program you not see any other files except Program.cs
+- I created it by Visual studio code. And such files as .sln and .csproj should be ignored by moderators of competition.
 
 ## Task
 This code tells you if your number is palindrom or not.
