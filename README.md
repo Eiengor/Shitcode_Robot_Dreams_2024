@@ -32,5 +32,5 @@ e=@"C:\MinGW\bin\g++.exe";x="palindrom";n=Console.ReadLine();o=@"C:\Shitcode\t.t
 - But secondly, a loop part is `C++` code.
 Which was written in some string. It runs a loop for cheking if number is a palindrom. And creates other operation.
 - And at the end, a print result part is `python` code.
-
+- It deletes created files after their running so a program starts with 1 only line and ends with it.
 Have fun!
